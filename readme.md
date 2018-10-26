@@ -1,5 +1,6 @@
 share-this
 ==========
+This plugin is modified to use with Bootstrap 4
 
 Medium-like text selection sharing without dependencies
 
