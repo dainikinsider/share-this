@@ -5,7 +5,7 @@
     function t(e, t, n) {
         var r = this.getText(e),
             o = this.getShareUrl(r, n);
-        return '<a href="' + o + '" target="_blank" rel="noopener nofollow noreferrer"><i class="dii-twitter" /></a>'
+        return '<a class="nav-link" href="' + o + '" target="_blank" rel="noopener nofollow noreferrer"><i class="dii-twitter" /></a>'
     }
     function n(e) {
         var t = e.trim();
